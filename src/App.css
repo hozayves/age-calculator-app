@@ -880,6 +880,14 @@ video {
     left: 83%;
   }
 
+  .md\:left-\[86\%\] {
+    left: 86%;
+  }
+
+  .md\:left-\[87\%\] {
+    left: 87%;
+  }
+
   .md\:mb-14 {
     margin-bottom: 3.5rem;
   }

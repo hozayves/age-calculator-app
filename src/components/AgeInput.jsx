@@ -30,7 +30,7 @@ function AgeInput() {
             </div>
         </div>
         <div className='border border-LightGrey relative mb-16 md:mb-14'>
-            <button className='bg-purple absolute w-[50px] h-[50px] rounded-full left-[40%] -top-[25px] p-3 cursor-pointer md:left-[90%]'>
+            <button className='bg-purple absolute w-[50px] h-[50px] rounded-full left-[40%] -top-[25px] p-3 cursor-pointer md:left-[87%]'>
                 <img src="/icon-arrow.svg" alt="" />
             </button>
         </div>
