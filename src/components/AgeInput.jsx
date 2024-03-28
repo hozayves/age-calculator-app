@@ -1,5 +1,3 @@
-import React from 'react'
-
 function AgeInput() {
   return (
     <section className='flex flex-col gap-10'>
